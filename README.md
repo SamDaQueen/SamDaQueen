@@ -12,10 +12,10 @@ func main() {
 	sam := Person{
             Pronouns:     "she/her/hers",
             Languages:    []string{"Java", "Javascript", "TypeScript", "Python", "GoLang", "C#", "SQL", "C++"},
-            AskMeAbout:   []string{"full stack", "back end", "front end", "ai", "neural networks", "robotics", "video games"},
+            AskMeAbout:   []string{"Full stack", "Back end", "Front end", "AI", "Neural Networks", "Robotics", "Video games"},
             WebMobile:    []string{"Node", "Spring", "React", "React Native", "Redux", ".NET", "Bootstrap", "HTTP", "REST API"},
             Databases:    []string{"Relational (SQLite, MySQL, RDS)", "Non-relational (MongoDB, AWS DynamoDB)"},
-            DevTools:     []string{"Containers (Docker, Kubernetes)", "GitHub", "JUnit", "Gradle", "JIRA", "CI/CD"}  
+            DevTools:     []string{"Containers (Docker, Kubernetes)", "GitHub", "JUnit", "Gradle", "JIRA", "Postman", "CI/CD"}  
 	}
 
 	fmt.Printf("%+v\n", sam)
@@ -28,13 +28,12 @@ func main() {
 |---------------------------------------|---------------------------------------------------------------------------------------|---------------:|
 | 💻 **Software Engineer**              | [CrowdDoing](https://crowddoing.world)                                               |   2023 - Present |
 | 💻 **Gen AI Research Assistant**      | [Abecederian, LLC](https://www.linkedin.com/company/abecedarian/)                    |            2023 |
-| 💻 **Graduate Teaching Assistant**    | [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu) | 2021 - 2023 |
+| 💻 **Graduate Teaching Assistant**    | [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) | 2021 - 2023 |
 | 💻 **Software Development Engineer Co-Op** | [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)                      |            2022 |
 | 💻 **Coding Instructor JavaScript**   | [WhiteHat Education Technology](https://www.byjusfutureschool.com)                    | 2020 - 2021 |
-| 💻 **Frontend Software Engineer**     | [WhiteHat Education Technology](https://www.byjusfutureschool.com)                    |            2019 |
+| 💻 **Frontend Software Engineer**     | [SSSM](https://www.facebook.com/shyamsatsangmandal/)                    |            2019 |
 | 💻 **Software Engineer Intern**      | [Across The Globe](https://www.atg.world)                                             |            2018 |
 | 💻 **Graphic Designer Intern**       | [Soulflower Inc](https://www.soulflower.in)                                            | 2016 - 2017 |
-
 <br>
 
 >#### Recent Certifications 📃:

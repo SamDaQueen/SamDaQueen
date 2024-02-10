@@ -38,9 +38,9 @@ func main() {
 
 <br>
 
->#### Recent Certifications:
-- 📃[Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RN5XS6D5GH5J)
-- 📃[.Net Full Stack Foundationn](https://www.coursera.org/account/accomplishments/certificate/5PT9E5LFR3M9)
-- 📃[Microsoft Azure Services and Lifecycles](https://www.coursera.org/account/accomplishments/verify/A3VPW2MFPVJT)
-- 📃[Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/certificate/9FAJ96QPQJC3J)
-- 📃[Amazon Web Services Cloud Practitioner](https://www.credly.com/badges/e9853835-0420-46ab-85af-39a550de28fe/linked_in_profile)
+>#### Recent Certifications 📃:
+- [Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RN5XS6D5GH5J)
+- [.Net Full Stack Foundationn](https://www.coursera.org/account/accomplishments/certificate/5PT9E5LFR3M9)
+- [Microsoft Azure Services and Lifecycles](https://www.coursera.org/account/accomplishments/verify/A3VPW2MFPVJT)
+- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/certificate/9FAJ96QPQJC3J)
+- [Amazon Web Services Cloud Practitioner](https://www.credly.com/badges/e9853835-0420-46ab-85af-39a550de28fe/linked_in_profile)

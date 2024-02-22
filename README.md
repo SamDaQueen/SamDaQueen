@@ -29,7 +29,7 @@ func main() {
 | 💻 **Software Engineer**              | [CrowdDoing](https://crowddoing.world)                                               |   2023 - Present |
 | 💻 **Gen AI Research Assistant**      | [Abecederian, LLC](https://www.linkedin.com/company/abecedarian/)                    |            2023 |
 | 💻 **Graduate Teaching Assistant**    | [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) | 2021 - 2023 |
-| 💻 **Software Development Engineer Co-Op** | [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)                      |            2022 |
+| 💻 **Software Development Engineer** | [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)                      |            2022 |
 | 💻 **Coding Instructor JavaScript**   | [WhiteHat Education Technology](https://www.byjusfutureschool.com)                    | 2020 - 2021 |
 | 💻 **Frontend Software Engineer**     | [SSSM](https://www.facebook.com/shyamsatsangmandal/)                    |            2019 |
 | 💻 **Software Engineer Intern**      | [Across The Globe](https://www.atg.world)                                             |            2018 |

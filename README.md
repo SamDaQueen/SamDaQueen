@@ -26,7 +26,8 @@ func main() {
 > #### Work Experience 👩‍💼
 | Position                              | Company                                                                               | Duration       |
 |---------------------------------------|---------------------------------------------------------------------------------------|---------------:|
-| 💻 **Software Engineer**              | [CrowdDoing](https://crowddoing.world)                                               |   2023 - Present |
+| 💻 **Senior Software Engineer**       | [CrowdDoing](https://crowddoing.world)                                               |   2024 - Present |
+| 💻 **Software Engineer**              | [CrowdDoing](https://crowddoing.world)                                               |   2023 - 2024  |
 | 💻 **Gen AI Research Assistant**      | [Abecederian, LLC](https://www.linkedin.com/company/abecedarian/)                    |            2023 |
 | 💻 **Graduate Teaching Assistant**    | [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) | 2021 - 2023 |
 | 💻 **Software Development Engineer** | [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)                      |            2022 |

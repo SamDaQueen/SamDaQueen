@@ -6,21 +6,6 @@ _Hello there, I'm Sam, a cool Software Engineer with 3+ years of experience who 
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences. I'm currently looking for my next full-time SDE opportunity. Feel free to explore and get in touch! <br>
 ![](https://komarev.com/ghpvc/?username=SamDaQueen) <br>
 
-
-```golang
-func main() {
-	sam := Person{
-            Pronouns:     "she/her/hers",
-            Languages:    []string{"Java", "Javascript", "TypeScript", "Python", "GoLang", "C#", "SQL", "C++"},
-            AskMeAbout:   []string{"Full stack", "Back end", "Front end", "AI", "Neural Networks", "Robotics", "Video games"},
-            WebMobile:    []string{"Node", "Spring", "React", "React Native", "Redux", ".NET", "Bootstrap", "HTTP", "REST API"},
-            Databases:    []string{"Relational (SQLite, MySQL, RDS)", "Non-relational (MongoDB, AWS DynamoDB)"},
-            DevTools:     []string{"Containers (Docker, Kubernetes)", "GitHub", "JUnit", "Gradle", "JIRA", "Postman", "CI/CD"}  
-	}
-
-	fmt.Printf("%+v\n", sam)
-}
-```
 <br>
 
 > #### Work Experience 👩‍💼

@@ -26,7 +26,8 @@ func main() {
 > #### Work Experience 👩‍💼
 | Position                              | Company                                                                               | Duration       |
 |---------------------------------------|---------------------------------------------------------------------------------------|---------------:|
-| 💻 **Senior Software Engineer**       | [CrowdDoing](https://crowddoing.world)                                               |   2024 - Present |
+| 💻 **Software and Controls Engineer** | [Horizon Scientific](https://www.horizonscientific.com/)                          	|   2024 - Present |
+| 💻 **Senior Software Engineer**       | [CrowdDoing](https://crowddoing.world)                                               |   2024 |
 | 💻 **Software Engineer**              | [CrowdDoing](https://crowddoing.world)                                               |   2023 - 2024  |
 | 💻 **Gen AI Research Assistant**      | [Abecederian, LLC](https://www.linkedin.com/company/abecedarian/)                    |            2023 |
 | 💻 **Graduate Teaching Assistant**    | [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) | 2021 - 2023 |
@@ -36,10 +37,3 @@ func main() {
 | 💻 **Software Engineer Intern**      | [Across The Globe](https://www.atg.world)                                             |            2018 |
 | 💻 **Graphic Designer Intern**       | [Soulflower Inc](https://www.soulflower.in)                                            | 2016 - 2017 |
 <br>
-
->#### Recent Certifications 📃:
-- [Programming with Google Go Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RN5XS6D5GH5J)
-- [.Net Full Stack Foundationn](https://www.coursera.org/account/accomplishments/certificate/5PT9E5LFR3M9)
-- [Microsoft Azure Services and Lifecycles](https://www.coursera.org/account/accomplishments/verify/A3VPW2MFPVJT)
-- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/certificate/9FAJ96QPQJC3J)
-- [Amazon Web Services Cloud Practitioner](https://www.credly.com/badges/e9853835-0420-46ab-85af-39a550de28fe/linked_in_profile)

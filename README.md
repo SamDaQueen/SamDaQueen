@@ -3,7 +3,7 @@
 > #### About Me 👩‍💻
 _Hello there, I'm Sam, a cool Software Engineer with 3+ years of experience who loves playing video games! 💻❤️ I specialize in Mobile and Web Development, with an interest and projects in AI, CNN and Robotics. I recently graduated with a Master's degree in Computer Science from Northeastern University. My goal is to keep learning new technologies and use my skills and knowledge to create innovative and efficient solutions, and of course, fun projects!_
  <br><br>
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences. I'm currently looking for my next full-time SDE opportunity. Feel free to explore and get in touch! <br>
+Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences. Feel free to explore and get in touch! <br>
 ![](https://komarev.com/ghpvc/?username=SamDaQueen) <br>
 
 <br>
